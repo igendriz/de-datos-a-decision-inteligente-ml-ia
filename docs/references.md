@@ -57,7 +57,7 @@
   Journal of Materials in Civil Engineering, 18(4), 597–604.  
   https://doi.org/10.1061/(ASCE)0899-1561(2006)18:4(597)
 
-- Chou, J.-S., & Tsai, C.-F. (2012).  
-  *Concrete compressive strength analysis using a combination of machine learning methods.*  
-  Automation in Construction, 24, 86–94.  
-  https://doi.org/10.1016/j.autcon.2012.02.006
+- Mostafa M. Alsaadawi, Mohamed Kamel Elshaarawy & Abdelrahman Kamal Hamed . (2025).  
+  *Concrete compressive strength classification using hybrid machine learning models and interactive GUI.*  
+  Innovative Infrastructure Solutions, 10:198.  
+  https://doi.org/10.1007/s41062-025-01983-2
