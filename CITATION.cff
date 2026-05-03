@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+title: "De los datos a la toma inteligente de decisiones: ML e IA aplicadas"
+message: "Si utiliza este material, por favor cite el repositorio."
+type: software
+
+authors:
+  - family-names: "Sánchez-Gendriz"
+    given-names: "Ignacio"
+
+date-released: 2026-05-01
+
+version: "v1.0.0"
+
+url: "https://github.com/tu-usuario/de-datos-a-decision-inteligente-ml-ia"
+
+preferred-citation:
+  type: report
+  authors:
+    - family-names: "Sánchez-Gendriz"
+      given-names: "Ignacio"
+  title: "De los datos a la toma inteligente de decisiones: aplicaciones de Machine Learning, Data Mining e Inteligencia Artificial en Ingeniería Civil y de Sistemas"
+  year: 2026
+  institution: "Semana Internacional de Ingeniería, Universidad Cooperativa de Colombia"
