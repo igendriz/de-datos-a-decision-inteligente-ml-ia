@@ -1,3 +1,4 @@
+```text
 de-datos-a-decision-inteligente-ml-ia/
 │
 ├── README.md
@@ -19,3 +20,4 @@ de-datos-a-decision-inteligente-ml-ia/
 │
 └── docs/
     └── referencias.md
+```

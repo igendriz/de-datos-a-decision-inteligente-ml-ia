@@ -31,14 +31,6 @@ Internacional de Ingeniería, Universidad Cooperativa de Colombia, 6–8 de mayo
 de 2026. GitHub. URL: insertar enlace del repositorio.
 ````
 
-También puede incluirse una nota como:
-
-```text
-La referencia recomendada será actualizada posteriormente con el DOI de la
-versión archivada y, en una etapa posterior, con la referencia del preprint
-académico asociado al material.
-```
-
 ### 3. Crear una release estable en GitHub
 
 Después de organizar la versión utilizada en la presentación, se recomienda crear una release estable en GitHub, por ejemplo:
